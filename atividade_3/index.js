@@ -94,3 +94,6 @@ let área;]
 		let resultadoTamanho =document.getElementById('resultadoTamanho')
 		resultadoTamanho.innerHTML=('o quadrado necessita de '+ tamanho+' ao total);
 	} 
+	}
+	
+	} //function
